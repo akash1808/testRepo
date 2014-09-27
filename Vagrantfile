@@ -23,3 +23,4 @@ Vagrant.configure("2") do |config|
      v.customize ["modifyvm", :id, "--ioapic", "on"]
   end
   end
+checking
